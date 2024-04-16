@@ -63,6 +63,7 @@ plt.show()
 ```
 
 ## Output:
+![Screenshot 2024-04-16 164440](https://github.com/Gokul1410/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/153058321/167ae9cc-26bd-41bf-bb1f-456fd0b66754)
 ![Screenshot 2024-04-16 162258](https://github.com/Gokul1410/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/153058321/563e6e01-809f-4393-94ce-3238e437c1dd)
 ![Screenshot 2024-04-16 162317](https://github.com/Gokul1410/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/153058321/002b6c02-38c7-4a01-8146-9ec1c9b54625)
 ![Screenshot 2024-04-16 162332](https://github.com/Gokul1410/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/153058321/79376681-9abf-4947-a9a9-2ab67e132ecc)
